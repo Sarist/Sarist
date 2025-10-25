@@ -23,7 +23,7 @@ I'm a security researcher and red teamer focused on web & network penetration te
 `Postman` · `Burp Suite` · `OWASP ZAP` · `JS` · `React` · `Node` · `Express` · `Flask`
 
 ### Dev / Infra
-`Docker` · `Kubernetes` · `AWS` · `Git` · `GitLab CI` · `Bash` · `Ansible` (optional)
+`Docker` · `Kubernetes` · `AWS` · `Git` · `GitLab CI` · `Bash` 
 
 ### Languages & DBs
 `Python` · `C` · `C++` · `JavaScript` · `HTML/CSS` · `MySQL` · `MongoDB` · `Oracle`
